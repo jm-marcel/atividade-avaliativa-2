@@ -105,3 +105,6 @@ dist
 
 # IntelliJ Configuration
 .idea/
+
+# Node Persist
+.node-persist/
